@@ -5,7 +5,13 @@ main {
   align-items: center;
   margin: auto;
 }
+#less-than-zero{
+  color: red;
+}
 
+#greater-than-ninety-nine{
+  color: red;
+}
 #guess {
   width: 5em;
 }
